@@ -10,3 +10,13 @@ for num in range(n + 1):
                break
        else:
            print(num)
+         
+print("prvni cislo")
+x = int(input())
+print("zadejte druhe cislo)
+y int(input())
+print('vysledek : ')
+if x + y <= 1000:
+      print(x*y)
+      else : 
+      print(x+y)
